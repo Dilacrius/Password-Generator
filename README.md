@@ -1,2 +1,2 @@
 # Password-Generator
- Aa tool to create passwords with Javascript
+ A tool to create passwords with Javascript
